@@ -10,6 +10,7 @@ And then simply use a document listener to check for changes in the top input fi
 This does come with a few caveats such as the fact that the text field auto scrolls to the left when the text length grows beyond the field's width. But i think it's a small price to pay for the effect.
 
 Here are a few visuals:
+
 ![img.png](attachments/img.png)
 ![img2.png](attachments/img2.png)
 ![video.mov](attachments/video.mov)
